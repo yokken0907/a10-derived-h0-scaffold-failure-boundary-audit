@@ -1,0 +1,9 @@
+phase_or_package,role,decision_or_status,main_result,D2_READY,executed_real_data_or_likelihood
+Phase 1.5 seed dossier,A10 stripping and neutral kernel preparation,DOSSIER_READY_FOR_DESTRUCTION_LOG_MERGE,"Four carry-forward candidates, four deferred/ablation components, one archive-only component",No,No
+F2,symbolic-contract guard smoke,PASS_WITH_SYMBOLIC_CONTRACT_GUARD_HOLD,Finite/positive normalized symbolic scaffold on toy grid; leakage/domain guards only,False,No
+F3,physical-status / derivation-gap matrix,PASS_WITH_PHYSICAL_STATUS_DERIVATION_GAP_HOLD,Symbolic scaffold separated from physical cosmology status,False,No
+F4-F7,compound derivation-gap closure and D2 gate handoff,PASS_WITH_COMPOUND_CHECKPOINT_HOLD,D2 prerequisites remained unmet; no likelihood or comparison executed,False,No
+G0-G3,first-principles or null decision,PASS_WITH_FIRST_PRINCIPLES_DERIVATION_HOLD,First-principles physical E/H derivation not found in current artifacts,False,No
+H0-H3,negative derivation closeout and bounded handoff,PASS_WITH_HOLD,Candidate scaffold retained only as bounded hypothesis scaffold,False,No
+I0-I3,human-readable terminal dossier and expert handoff synthesis,PASS_WITH_HUMAN_READABLE_TERMINAL_DOSSIER_HOLD,Dossier and expert handoff synthesized; no-go claims sealed,False,No
+J0-J3,"terminal QA, public boundary, and restart handoff",PASS_WITH_TERMINAL_QA_PUBLIC_BOUNDARY_RESTART_HANDOFF_HOLD,Public boundary sealed; recommended stop/new-thread restart/expert handoff,False,No

@@ -1,0 +1,62 @@
+[
+  {
+    "path": "README_JA.md",
+    "sha256": "523bb095dbd8d910f626815b2ce3f5cbd129dfded4a6088b12b780f5965fd6de",
+    "bytes": 803
+  },
+  {
+    "path": "STATUS_SUMMARY.txt",
+    "sha256": "b0954e4c42c81a4204a3ca882b30facb64c28c7a4fcdc8203ec5e67b558a4645",
+    "bytes": 717
+  },
+  {
+    "path": "I0_HUMAN_READABLE_TERMINAL_DOSSIER_JA.md",
+    "sha256": "c8bd0f0c66c3ffc92a004835bc26a8bbe3e4fde00efe6e911ce0a226be516a68",
+    "bytes": 1021
+  },
+  {
+    "path": "I1_EXPERT_HANDOFF_SYNTHESIS_JA.md",
+    "sha256": "668356c1a447c62527ec7466c8c081bb41076d8264e64ab40f3870144c60c16f",
+    "bytes": 966
+  },
+  {
+    "path": "I2_CLAIM_BOUNDARY_AND_NO_GO_GATE_JA.md",
+    "sha256": "6627eb4fa1decae93259227f1d71472750a947720c07d96ca54979638ba9ef07",
+    "bytes": 863
+  },
+  {
+    "path": "I3_NEXT_MODE_OPTIONS_JA.md",
+    "sha256": "2ea95fd32b146e55f55072115c1a476779070a163ad68bbda29aec9925da230a",
+    "bytes": 938
+  },
+  {
+    "path": "EXPERT_HANDOFF_ONE_PAGE_JA.md",
+    "sha256": "60962e065d7b7d1d4689be2e2862fe7bff573a444564d186b493899624500c86",
+    "bytes": 1134
+  },
+  {
+    "path": "CLAIM_BOUNDARY_SEAL_JA.md",
+    "sha256": "01f6f7e9afa7d02727fad51ff4eaa3d885f1b8f46fa195322402e65cf0c1ac47",
+    "bytes": 547
+  },
+  {
+    "path": "MODE_I0_I3_STATUS.json",
+    "sha256": "5ac82e581092cc0fc134940afa25e7c4b3d5289189429c35c93d6dd22d75e4b9",
+    "bytes": 805
+  },
+  {
+    "path": "UNAUTHORIZED_OPERATION_COUNTERS.json",
+    "sha256": "708b501fe2e466443197d9387fa9c072000100a951f8a07d2ab2171f74dcdb4f",
+    "bytes": 488
+  },
+  {
+    "path": "SOURCE_CHAIN_REFERENCE.txt",
+    "sha256": "6bb57465e132250122e6fc2402dd2a6f91dfd78f3ba26fbe1a81f2cd26a500f0",
+    "bytes": 168
+  },
+  {
+    "path": "MANIFEST_VERIFY.txt",
+    "sha256": "fedf1ec180c7fc2c75bf8756fe012c04f0ee0cb0173c8315059b77a58be5f359",
+    "bytes": 77
+  }
+]

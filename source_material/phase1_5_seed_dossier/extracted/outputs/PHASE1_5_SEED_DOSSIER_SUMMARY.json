@@ -1,0 +1,12 @@
+{
+  "created_utc": "2026-05-31T04:00:02.121311+00:00",
+  "phase1_output_zip": "/mnt/c/Users/KEI/Downloads/a10_core_to_h0_kernel_deconstruction_phase1_textual_bridge_output(1).zip",
+  "phase1_source_sha256": "36e0224f16bab50cfa768dfc377a1fe455358f84a2711afcac9e0b5282ded3be",
+  "component_count": 9,
+  "carry_forward_candidate_count": 4,
+  "defer_or_ablate_count": 4,
+  "archive_only_count": 1,
+  "evidence_context_count": 54,
+  "ablation_test_count": 7,
+  "destruction_merge_component_count": 9
+}

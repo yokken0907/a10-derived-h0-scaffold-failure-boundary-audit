@@ -1,0 +1,22 @@
+{
+  "title": "A10-Derived H0 Scaffold Failure-Boundary Audit",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "creators": [
+    {
+      "name": "Yoshimura, Keiji",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "Claim-bounded failure-boundary audit of an A10-derived Hubble-tension scaffold. This archive does not claim a Hubble-tension solution, Lambda-CDM replacement, observational validation, real-data likelihood result, MCMC posterior, or evidence result.",
+  "license": "other-open",
+  "version": "v0.1.0-claim-bounded-failure-boundary-audit",
+  "keywords": [
+    "Hubble tension",
+    "failure-boundary audit",
+    "claim boundary",
+    "cosmology scaffold",
+    "A10 methodology"
+  ],
+  "notes": "Do not use a manually entered Zenodo-managed DOI. If archived, let Zenodo create the repository archive identifier from a GitHub release."
+}

@@ -1,0 +1,13 @@
+{
+  "real_likelihood_eval_count": 0,
+  "finite_loglike_emit_count": 0,
+  "chi_square_emit_count": 0,
+  "matched_lcdm_baseline_execution_count": 0,
+  "mcmc_execution_count": 0,
+  "posterior_comparison_count": 0,
+  "evidence_metric_count": 0,
+  "hubble_tension_solved_claim_emit_count": 0,
+  "lambda_cdm_replacement_claim_emit_count": 0,
+  "lcdm_victory_or_defeat_claim_emit_count": 0,
+  "automatic_next_phase_generation_count": 0
+}

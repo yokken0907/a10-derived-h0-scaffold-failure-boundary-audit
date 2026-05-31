@@ -1,0 +1,3 @@
+PASS_EXTERNAL_BOUNDARY_VERIFIED_NO_EXTERNAL_RAW_DATA_INCLUDED
+This package contains documentation, matrices, and counters only.
+No real external cosmology data, likelihood products, posterior samples, or evidence metrics are included.
