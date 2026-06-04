@@ -1,0 +1,68 @@
+[
+  {
+    "substep": "G0",
+    "item": "first_principles_physical_E_derivation_found",
+    "status": "HOLD_FALSE",
+    "note": "not found in current artifacts"
+  },
+  {
+    "substep": "G0",
+    "item": "candidate_scaffold_retained",
+    "status": "PASS",
+    "note": "retained as bounded scaffold only"
+  },
+  {
+    "substep": "G1",
+    "item": "background_dynamics_law",
+    "status": "MISSING",
+    "note": "blocks physical E/H claim"
+  },
+  {
+    "substep": "G1",
+    "item": "energy_density_or_effective_component_definition",
+    "status": "MISSING",
+    "note": "blocks physical interpretation"
+  },
+  {
+    "substep": "G1",
+    "item": "conservation_or_continuity_relation",
+    "status": "MISSING",
+    "note": "blocks first-principles derivation"
+  },
+  {
+    "substep": "G1",
+    "item": "h0_target_leakage_guard",
+    "status": "PASS",
+    "note": "guard present but insufficient"
+  },
+  {
+    "substep": "G2",
+    "item": "candidate_A_status",
+    "status": "SCAFFOLD_ONLY",
+    "note": "not physical equation"
+  },
+  {
+    "substep": "G2",
+    "item": "observable_distance_mapping",
+    "status": "MISSING",
+    "note": "blocks D2"
+  },
+  {
+    "substep": "G3",
+    "item": "D2_READY",
+    "status": "FALSE",
+    "note": "D2 blocked"
+  },
+  {
+    "substep": "G3",
+    "item": "next_mode_ready",
+    "status": "TRUE",
+    "note": "R0 reconstruction route selection may proceed"
+  },
+  {
+    "substep": "G3",
+    "item": "unexpected_flag_count",
+    "status": "0",
+    "note": "no anomaly within compound assumptions"
+  }
+]

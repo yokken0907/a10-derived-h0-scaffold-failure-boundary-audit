@@ -1,0 +1,72 @@
+[
+  {
+    "path": "AUTHORIZED_OPERATION_COUNTERS.json",
+    "size_bytes": 201,
+    "sha256": "5e9c0e50452dd27ffc0f8e63348eeb14d32ce59a6cb633c3d4f9d8669a348f5b"
+  },
+  {
+    "path": "CLAIM_BOUNDARY_SEAL_JA.md",
+    "size_bytes": 839,
+    "sha256": "cabff6dcc0a7b27bf8eb5218b356b0bc19465f2b281406451114ebea4347e1a3"
+  },
+  {
+    "path": "G0_FIRST_PRINCIPLES_OR_NULL_DECISION_JA.md",
+    "size_bytes": 920,
+    "sha256": "2279966184b794d5357fec4950f9954717fd15d2d9320cd3f5195c6d5628bff9"
+  },
+  {
+    "path": "G0_G3_COMPOUND_GATE_MATRIX.csv",
+    "size_bytes": 776,
+    "sha256": "f84902bc5ac1674b5458251b03dacd90c114c26dae8b78a56549044e6b81275c"
+  },
+  {
+    "path": "G0_G3_COMPOUND_GATE_MATRIX.json",
+    "size_bytes": 1534,
+    "sha256": "4388bd69ea456b167d2cf85f38dc56d6828d210021325d438d4cfe61d15fe96e"
+  },
+  {
+    "path": "G1_FIRST_PRINCIPLES_REQUIREMENT_INVENTORY_JA.md",
+    "size_bytes": 1035,
+    "sha256": "46d6083b5fd5b1ff29302e303e2c1386fae54a40dd08b07c704d03e1324587e3"
+  },
+  {
+    "path": "G2_CANDIDATE_SCAFFOLD_DOWNGRADE_FAILURE_BOUNDARY_JA.md",
+    "size_bytes": 979,
+    "sha256": "2c3a16bdc26e774d10d97a8b0884e04b789399a7364677756e9d4bb715d154d0"
+  },
+  {
+    "path": "G3_G_BRANCH_COMPOUND_CHECKPOINT_CLOSEOUT_NEXT_MODE_HANDOFF_JA.md",
+    "size_bytes": 1078,
+    "sha256": "ff260b487d62232832f43319b667ca30cfaf3e8aa5233341a378fc511ee60a29"
+  },
+  {
+    "path": "README_JA.md",
+    "size_bytes": 1131,
+    "sha256": "b832890893d1dd5c0266cc8a45c0f2cbf43d5afa097786a6e1e835f23a78f672"
+  },
+  {
+    "path": "RUN_STATUS.txt",
+    "size_bytes": 391,
+    "sha256": "68b41e00b62ab3ce9ab5bc022ba0381e8ce9c26920e84788d309af161de87971"
+  },
+  {
+    "path": "STATUS_SUMMARY.json",
+    "size_bytes": 794,
+    "sha256": "728376105a0768c47a00a90fb6cacd4d115c0accee3bf70986506c776094927f"
+  },
+  {
+    "path": "STATUS_SUMMARY.txt",
+    "size_bytes": 905,
+    "sha256": "9329151c6e4fde3f7b0264376b846f6dbc9f62920695a21d455d71c22b445353"
+  },
+  {
+    "path": "UNAUTHORIZED_OPERATION_COUNTERS.json",
+    "size_bytes": 576,
+    "sha256": "497afeafa5e029807215ee4bf23eba964b5eb66c921889d2081833b79851a45e"
+  },
+  {
+    "path": "UNEXPECTED_EVENT_PROTOCOL_JA.md",
+    "size_bytes": 812,
+    "sha256": "c2c00ec1ae5b48197dc1814145807aba55fc64c901ea9d894e963e70b9f9b180"
+  }
+]
