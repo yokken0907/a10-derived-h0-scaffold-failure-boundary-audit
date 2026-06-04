@@ -1,0 +1,50 @@
+[
+  {
+    "substep": "F4",
+    "item": "derivation_gap_position_identified",
+    "status": "PASS",
+    "note": "gap is between symbolic scaffold and derived physical E/H"
+  },
+  {
+    "substep": "F4",
+    "item": "minimal_contract_drafted",
+    "status": "PASS",
+    "note": "contract is scaffold only"
+  },
+  {
+    "substep": "F5",
+    "item": "finite_positive_E_guard_required",
+    "status": "PASS",
+    "note": "guard matrix only"
+  },
+  {
+    "substep": "F5",
+    "item": "h0_target_leakage_guard_required",
+    "status": "PASS",
+    "note": "h0 target not physical parameter"
+  },
+  {
+    "substep": "F6",
+    "item": "physical_E_equation_derived",
+    "status": "HOLD",
+    "note": "blocks D2"
+  },
+  {
+    "substep": "F6",
+    "item": "observable_distance_mapping",
+    "status": "HOLD",
+    "note": "blocks D2"
+  },
+  {
+    "substep": "F6",
+    "item": "matched_LCDM_reference_contract",
+    "status": "HOLD",
+    "note": "blocks D2"
+  },
+  {
+    "substep": "F7",
+    "item": "compound_checkpoint_reached",
+    "status": "PASS",
+    "note": "G0 is next candidate, not D2"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "synthetic_nonnegative_z_grid_evaluation_count": 18,
+  "candidate_A_symbolic_contract_guard_count": 1,
+  "finite_positive_normalization_guard_count": 1,
+  "distance_like_integral_guard_count": 1,
+  "negative_z_guard_count": 1,
+  "h0_target_label_leakage_guard_count": 1
+}

@@ -1,0 +1,50 @@
+1. file name
+A10_derived_H0_scaffold_failure_boundary_audit_v0_1_0.pdf
+
+2. title in Japanese and English
+Japanese:
+A10由来ハッブルテンション・スキャフォールドの主張境界付き破壊検査記録
+
+English:
+A Claim-Bounded Failure-Boundary Audit of an A10-Derived Hubble-Tension Scaffold
+
+3. subtitle in Japanese and English
+Japanese:
+候補プロキシから物理的 E(z)/H(z) ブリッジ未成立までの境界記録
+
+English:
+From Candidate Proxy to Physical-Bridge Non-Establishment
+
+4. abstract in Japanese and English
+Japanese:
+本稿は、A10由来のハッブルテンション候補スキャフォールドに対する、主張境界付きの破壊検査記録である。本稿は、ハッブルテンションの解決、ΛCDMの置換、観測的発見、実データlikelihoodの結果を主張しない。検査対象のチェーンでは、candidate proxy、internal diagnostic curve、contract-only scaffold、bounded hypothesis scaffold は残存した。一方で、物理的な背景膨張方程式 E(z) または H(z) の第一原理的導出は、監査対象成果物内では確立されなかった。そのため、ΛCDM reference smoke、実データlikelihood、matched baseline comparison、MCMC、posterior comparison、evidence evaluation には進んでいない。本稿の貢献は、新しい宇宙論モデルの提示ではなく、candidate scaffold から physical background cosmology interface へ接続する箇所が未成立であることを明文化し、残存物と非主張事項を公開可能な形で固定する点にある。
+
+English:
+This manuscript reports a claim-bounded failure-boundary audit of an A10-derived Hubble-tension scaffold. It does not claim a solution to the Hubble tension, a replacement for Lambda-CDM, an observational discovery, or a real-data likelihood result. The audited chain retained a candidate proxy, an internal diagnostic curve, a contract-only scaffold, and a bounded hypothesis scaffold. However, no first-principles physical background-expansion equation E(z) or H(z) was established inside the audited artifacts. Consequently, the chain did not proceed to Lambda-CDM reference smoke, real-data likelihood testing, matched baseline comparison, MCMC, posterior comparison, or evidence evaluation. The contribution is therefore not a new cosmological model but a documented failure-localization record identifying the unresolved boundary between candidate scaffold material and a physically typed background cosmology interface.
+
+5. COI in Japanese and English
+Japanese:
+申告すべき利益相反はない。
+
+English:
+The author declares no competing interests.
+
+6. keywords in Japanese and English
+Japanese:
+ハッブルテンション、破壊検査、主張境界、A10方法論、宇宙論スキャフォールド、陰性結果
+
+English:
+Hubble tension; failure-boundary audit; claim boundary; A10 methodology; cosmology scaffold; negative result
+
+7. references in Japanese including DOI
+[1] K. Yoshimura, A10 Core Foundation v0.2.1: Theory-Freedom / Strict-Audit Clarification, and a Localized Early-Time Cosmology Case Study, repository manuscript, 2026. DOIなし。
+[2] K. Yoshimura, A10 Core to New H0 Project Seed Dossier, Phase 1.5, repository artifact, 2026. DOIなし。
+[3] K. Yoshimura, A10 Cosmology v0.5.0 Mode J0-J3 Compound Terminal QA, Public Boundary, and Restart Handoff, repository artifact, 2026. DOIなし。
+[4] Planck Collaboration, N. Aghanim et al., Planck 2018 results. VI. Cosmological parameters, Astronomy & Astrophysics 641, A6, 2020. DOI: 10.1051/0004-6361/201833910。
+[5] A. G. Riess et al., A Comprehensive Measurement of the Local Value of the Hubble Constant with 1 km s-1 Mpc-1 Uncertainty from the Hubble Space Telescope and the SH0ES Team, Astrophysical Journal Letters 934, L7, 2022. DOI: 10.3847/2041-8213/ac5c5b。
+[6] T. Karwal and M. Kamionkowski, Early dark energy, the Hubble-parameter tension, and the string axiverse, Physical Review D 94, 103523, 2016. DOI: 10.1103/PhysRevD.94.103523。
+[7] V. Poulin, T. L. Smith, T. Karwal, and M. Kamionkowski, Early Dark Energy Can Resolve the Hubble Tension, Physical Review Letters 122, 221301, 2019. DOI: 10.1103/PhysRevLett.122.221301。
+[8] J. C. Hill, E. McDonough, M. W. Toomey, and S. Alexander, Early dark energy does not restore cosmological concordance, Physical Review D 102, 043507, 2020. DOI: 10.1103/PhysRevD.102.043507。
+[9] D. Blas, J. Lesgourgues, and T. Tram, The Cosmic Linear Anisotropy Solving System (CLASS) II: Approximation schemes, Journal of Cosmology and Astroparticle Physics 07, 034, 2011. DOI: 10.1088/1475-7516/2011/07/034。
+[10] J. Lesgourgues, The Cosmic Linear Anisotropy Solving System (CLASS) I: Overview, arXiv:1104.2932, 2011. DOIなし。
+[11] S. Alam et al., The clustering of galaxies in the completed SDSS-III Baryon Oscillation Spectroscopic Survey: cosmological analysis of the DR12 galaxy sample, Monthly Notices of the Royal Astronomical Society 470, 2617-2652, 2017. DOI: 10.1093/mnras/stx721。

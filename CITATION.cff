@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "A10-Derived H0 Scaffold Failure-Boundary Audit"
+message: "If you cite this repository, please cite the repository archive and preserve the claim boundary."
+type: dataset
+authors:
+  - family-names: Yoshimura
+    given-names: Keiji
+    affiliation: Independent Researcher
+version: "v0.1.1-public-landing-and-metadata-refresh"
+date-released: "2026-06-04"
+license: "other-open"
+repository-code: "https://github.com/yokken0907/a10-derived-h0-scaffold-failure-boundary-audit"
+url: "https://yokken0907.github.io/a10-derived-h0-scaffold-failure-boundary-audit/"
+abstract: "A claim-bounded failure-boundary audit of an A10-derived Hubble-tension scaffold. The audited chain retained candidate proxy/scaffold material but did not establish a first-principles physical E(z)/H(z) bridge, so no real-data likelihood, Lambda-CDM comparison, MCMC, posterior, or evidence evaluation was executed. Version v0.1.1 refreshes public landing pages, metadata, and discoverability without introducing new cosmological claims."
+keywords:
+  - Hubble tension
+  - failure-boundary audit
+  - negative result
+  - claim boundary
+  - cosmology scaffold
+  - A10 methodology
+  - research governance
+  - null result
+  - model-building failure

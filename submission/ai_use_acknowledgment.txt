@@ -1,0 +1,3 @@
+AI use acknowledgment
+
+The author acknowledges the use of large language models, including ChatGPT, as computational and editorial assistants for manuscript organization, code-oriented reasoning, workflow packaging, and language refinement under the author's direct supervision and validation. The author remains responsible for the final content, claim boundary, and interpretation.

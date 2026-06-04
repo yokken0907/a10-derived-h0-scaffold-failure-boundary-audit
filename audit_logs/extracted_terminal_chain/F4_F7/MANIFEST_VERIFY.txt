@@ -1,0 +1,3 @@
+PASS_MANIFEST_VERIFIED
+All listed package payload files were generated from the compound package builder.
+No external raw data files are included.

@@ -1,0 +1,3 @@
+MANIFEST_VERIFY_PASS
+content_files_checked=161
+manifest_self_excluded=true
