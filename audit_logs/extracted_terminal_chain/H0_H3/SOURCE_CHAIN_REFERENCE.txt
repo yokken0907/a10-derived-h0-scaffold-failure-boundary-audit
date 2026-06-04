@@ -1,3 +1,0 @@
-source_mode=G0-G3_COMPOUND
-source_sha256=b178104d0d25a745603aa2f69b49361c1606ba0b35cf994e5169c27106378331
-source_zip_role=embedded_verified_source_artifact

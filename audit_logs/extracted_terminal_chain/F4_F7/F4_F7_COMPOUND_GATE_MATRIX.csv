@@ -1,9 +1,0 @@
-substep,item,status,note
-F4,derivation_gap_position_identified,PASS,gap is between symbolic scaffold and derived physical E/H
-F4,minimal_contract_drafted,PASS,contract is scaffold only
-F5,finite_positive_E_guard_required,PASS,guard matrix only
-F5,h0_target_leakage_guard_required,PASS,h0 target not physical parameter
-F6,physical_E_equation_derived,HOLD,blocks D2
-F6,observable_distance_mapping,HOLD,blocks D2
-F6,matched_LCDM_reference_contract,HOLD,blocks D2
-F7,compound_checkpoint_reached,PASS,"G0 is next candidate, not D2"

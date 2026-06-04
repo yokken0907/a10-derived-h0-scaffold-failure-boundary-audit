@@ -1,3 +1,0 @@
-source_zip=I0-I3 compound terminal dossier / expert handoff synthesis
-source_sha256=88cdd64c784487e0fc97b4f9a11d904f9c21c0cbafa0c24fe9df4003c3175115
-source_verified=True

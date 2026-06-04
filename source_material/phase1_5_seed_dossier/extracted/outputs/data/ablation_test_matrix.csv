@@ -1,8 +1,0 @@
-test_id,variant,purpose,promotion_rule
-A0,ΛCDM baseline,Comparator baseline,Reference only
-A1,ΔNeff-like benchmark,Simple early-radiation comparator,Kernel must not be benchmark-worse without explaining residual tradeoff
-A2,EDE-like benchmark,Known early-time benchmark class,"Kernel must be compared, not isolated"
-A3,"generic localized transfer, no gate",Test whether transfer kernel alone has value,Primary neutral candidate if residual costs are bounded
-A4,generic localized transfer with free gate center χg,Test generic stability/gating idea,May survive if not locked to χ≈137
-A5,fixed χ≈137 gate,Historical-coordinate ablation only,Cannot be promoted unless it beats generic/no-gate controls under independent diagnostics
-A6,late-time drag companion,Separate growth/S8 diagnostic,Deferred until early-time kernel residual map motivates it
